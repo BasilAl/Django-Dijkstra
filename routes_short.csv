@@ -1,0 +1,10 @@
+source,destination,type,time,cost
+Amsterdam,Berlin,bus,10.25,70.5
+Amsterdam,Berlin,train,6.3,185
+Amsterdam,Brussels,bus,2.75,19.58
+Amsterdam,Brussels,train,2,111
+Amsterdam,Lima,plane,30.7,1640
+Amsterdam,London,plane,1,60
+Berlin,Amsterdam,train,6.35,185
+Berlin,Lima,plane,27.13,957
+Berlin,London,plane,1.92,174
